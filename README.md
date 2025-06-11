@@ -147,10 +147,6 @@ This application is designed to facilitate healthcare resource allocation throug
   <img src="https://github.com/SoniaBorsi/Healthcare-Resource-Allocation/blob/b9d838cc5ddf62201667c8bbc80f4005dc64ebe5/Dashboard%20budget.gif?raw=true" width="512"/>  
 </p>
 
-More details can be found on our [paper](https://github.com/SoniaBorsi/Healthcare-Resource-Allocation/blob/f7a71216ad9e1f6794c3276f8551c0be0cbfeae4/Paper.pdf).
 
 
-## 6. Authors
 
-- [Borsi Sonia](https://github.com/SoniaBorsi/)
-- [Filippo Costamagna](https://github.com/pippotek)
