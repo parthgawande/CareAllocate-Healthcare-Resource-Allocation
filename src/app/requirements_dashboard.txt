@@ -1,0 +1,11 @@
+streamlit
+streamlit_folium
+plotly
+pandas
+folium 
+sqlalchemy 
+psycopg2-binary 
+numpy 
+streamlit_option_menu 
+openpyxl 
+statsmodels
