@@ -63,7 +63,7 @@ def display_home_page():
     with col1:
         st.write("")
     with col2:
-        st.image("/app/data/images/logo.png", use_column_width=True)  
+        st.image("/app/data/images/logo.png", use_container_width=True)  
     with col3:
         st.write("")
 
