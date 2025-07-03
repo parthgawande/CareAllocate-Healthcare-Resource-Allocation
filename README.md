@@ -148,9 +148,5 @@ This application is designed to facilitate healthcare resource allocation throug
 </p>
 
 
-## 🌐 Live Dashboard
 
-Click below to explore the interactive  dashboard:
-
-[![Open Dashboard](https://img.shields.io/badge/View-Dashboard-blue?)](https://6or6idemxx.loclx.io)
 
